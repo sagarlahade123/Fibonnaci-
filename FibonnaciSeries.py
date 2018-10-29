@@ -10,3 +10,4 @@ def fibonnaci_series_genretor(element):
         return fibonnaci_series_genretor(element-1)+fibonnaci_series_genretor(element-2)#this line get last two element from series and add's them and return it as a current element
 for index_of_element in range(1,number_of_elements_in_series+1):#this loop runs upto the number of element user want in his Fibonnaci series
     print(str(fibonnaci_series_genretor(index_of_element))+"\t",end="")#print genrated fibonnaci element at particular index
+#';lajxdhjhsagar sagar 
