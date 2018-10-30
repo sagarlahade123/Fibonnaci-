@@ -1,3 +1,4 @@
+
 #Following Line accept Number Of Elements user want in his Fibonnaci series
 number_of_elements_in_series=int(input("Enter number of elements you want in series:\t"))
 """
@@ -11,3 +12,5 @@ def fibonnaci_series_genretor(element):
 for index_of_element in range(1,number_of_elements_in_series+1):#this loop runs upto the number of element user want in his Fibonnaci series
     print(str(fibonnaci_series_genretor(index_of_element))+"\t",end="")#print genrated fibonnaci element at particular index
 #';lajxdhjhsagar sagar 
+
+sagar vishal tushar rohan komal saurabh rakesh prashant akash
